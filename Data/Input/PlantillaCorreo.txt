@@ -1,0 +1,8 @@
+Las siguientes documentos se han subido correctamente:
+
+[Documentos Correctos]
+[Faltan Categorias]Hacen falta los siguientes documentos para aceptar su reclamo:
+
+[Documentos Faltantes]
+[Faltan Categorias][No Faltan Categorias]Su reclamo esta siendo procesado.
+[No Faltan Categorias]
